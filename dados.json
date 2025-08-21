@@ -1,0 +1,53 @@
+{
+    "nome": "Player Stratocaster",
+    "marca": "Fender",
+    "cor": "Sunburst",
+    "price": "R$ 3.500",
+    "image": "<img src='img/Fender_Player_Series_Stratocaster_3_Color_Sunburst_2926.webp'width = 210px'>",
+
+    "nome2": "Les Paul Standard'60s",
+    "marca2": "Gilbson",
+    "cor2": "Cherry Red",
+    "price2": "R$ 12.000",
+    "image2": "<img src='img/GIBSON-LES-PAUL-STANDARD-60S-FIGURED-CHERRY-22540109-angel-left__61616.jpg 'width = 210px'>",
+
+    "nome3": "RG550 Genesis Collection",
+    "marca3": "Ibanez",
+    "cor3": "Purple Neon",
+    "price3": "R$4.500",
+    "image3": "<img src='img/200312190514_Epi_ori_f64fd31a-3e1f-45bb-9de8-2d33411d5766.webp'width = 160px'>",
+
+    "nome4": "PRS SE Custom 24",
+    "marca4": "PRS",
+    "cor4": "Whale Blue",
+    "price4": "R$ 5.000",
+    "image4": "<img src='img/qberghutmw02tbbxbvb3.webp'width = 210px'>",
+
+
+    "nome5": "Epiphone Les Paul Standard PlusTop Pro",
+    "marca5": "Epiphone",
+    "cor5": "Heritage Chery Sunburst",
+    "price5": "R$ 3.500",
+    "image5": "<img src='img/ENLPHSNH1LESPAULSTANDARDPLUS-TOPPRO_HERITAGESUNBURST19011511506-ISS8650B-2_500x.webp'width = 200px'>",
+
+    "nome6": "Fender American Professional II Telecaster",
+    "marca6": "Fender",
+    "cor6": "Butterscotch Blonde",
+    "price6": "R$ 9.000",
+    "image6": "<img src='img/2021-fender-american-professional-ii-telecaster-mn-butterscotch-blonde.webp'width = 250px'>",
+
+    "nome7": "Gretsch G2622 Streamliner",
+    "marca7": "Gretsch",
+    "cor7": "Walnut Stain",
+    "price7": "R$ 5.800",
+    "image7": "<img src='img/Untitled-design-2025-06-13T142833.383.jpg'width = 240px'>",
+
+    "nome8": "ESP LTD EC-1000",
+    "marca8": "ESP LTD",
+    "cor8": "Black Cherry Sunburst",
+    "price8": "R$ 7.200",
+    "image8": "<img src='img/9d42b97d7687ac1d4da8ccb0b52666f1-7c5wmg04p5.webp'width = 160px'>"
+
+}
+
+
